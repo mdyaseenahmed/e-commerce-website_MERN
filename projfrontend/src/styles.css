@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@500&display=swap');
+
+.btn,
+.jumbotron,
+.nav :hover {
+  border-radius: 0px;
+}
+
+.jumbotron {
+  padding-bottom: 0rem !important;
+}
+
+.nav-link {
+  cursor: pointer;
+}
+
+body {
+  background: #343a40;
+  font-family: 'Fira Code', monospace;
+}
+
+.footer {
+  bottom: 0;
+}
